@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:mapper="http://www.ontotext.com/mapper/"
+	xmlns:schema="https://schema.org/"
+	xmlns:dbr="https://dbpedia.org/resource/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rdf4j="http://rdf4j.org/schema/rdf4j#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="http://overheidsdata/vaccinatiegraad/COVID19/ID1">
+	<schema:observationAbout rdf:resource="https://dbpedia.org/resource/Zutphen"/>
+	<schema:variableMeasured>PartialVaccinationRate</schema:variableMeasured>
+	<schema:typicalAgeRange>12+</schema:typicalAgeRange>
+	<schema:healthCondition rdf:resource="https://dbpedia.org/resource/COVID-19"/>
+	<schema:observationDate>01/05/2023</schema:observationDate>
+	<schema:value>82</schema:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://overheidsdata/vaccinatiegraad/COVID19/ID2">
+	<schema:observationAbout rdf:resource="https://dbpedia.org/resource/Zutphen"/>
+	<schema:variableMeasured>PartialVaccinationRate</schema:variableMeasured>
+	<schema:typicalAgeRange>60+</schema:typicalAgeRange>
+	<schema:healthCondition rdf:resource="https://dbpedia.org/resource/COVID-19"/>
+	<schema:observationDate>01/05/2023</schema:observationDate>
+	<schema:value>92</schema:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://overheidsdata/vaccinatiegraad/COVID19/ID3">
+	<schema:observationAbout rdf:resource="https://dbpedia.org/resource/Zutphen"/>
+	<schema:variableMeasured>PartialVaccinationRate</schema:variableMeasured>
+	<schema:typicalAgeRange>18+</schema:typicalAgeRange>
+	<schema:healthCondition rdf:resource="https://dbpedia.org/resource/COVID-19"/>
+	<schema:observationDate>01/05/2023</schema:observationDate>
+	<schema:value>84</schema:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://overheidsdata/vaccinatiegraad/COVID19/ID4">
+	<schema:observationAbout rdf:resource="https://dbpedia.org/resource/Zutphen"/>
+	<schema:variableMeasured>PartialVaccinationRate</schema:variableMeasured>
+	<schema:typicalAgeRange>12-17</schema:typicalAgeRange>
+	<schema:healthCondition rdf:resource="https://dbpedia.org/resource/COVID-19"/>
+	<schema:observationDate>01/05/2023</schema:observationDate>
+	<schema:value>61</schema:value>
+</rdf:Description>
+
+</rdf:RDF>

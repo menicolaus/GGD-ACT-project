@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:mapper="http://www.ontotext.com/mapper/"
+	xmlns:dbr="https://dbpedia.org/resource/"
+	xmlns:schema="https://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rdf4j="http://rdf4j.org/schema/rdf4j#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+
+<rdf:Description rdf:about="https://dbpedia.org/resource/Zutphen">
+	<schema:containsPlace rdf:resource="http://example.com/base/Stadskern"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Laarstraat%20en%20omgeving"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Marswegkwartier"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Nieuwstad%20en%20Coehoornsingel"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/De%20Hoven"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Vijver%20en%20omgeving"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Zeeheldenbuurt"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Helbergen"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Warnsveldsewegkwartier-Zuid"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Warnsveldsewegkwartier-Noord"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Staatsliedenbuurt"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Pagemate%20en%20omgeving"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Helleraetplein%20en%20omgeving"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Weg%20naar%20Laren%20en%20omgeving"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Deventerweg%20en%20Polbeek"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Voorsteralleekwartier"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Moesmate%20en%20Tichelkuilen"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Zwanevlot%20en%20De%20Brink"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Braamkamp"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Stokebrand%20Bagijnenland%20en%20Bronsbergen"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Waarden%20en%20weerdslag"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Ooyerhoek"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/De%20Enk"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Eme%20en%20Broek"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Loo%EF%BF%BDrenk%20en%20Woud"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Vespreide%20huizen%20Leesten"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Dorp%20Warnsveld"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Welgelegen"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Scheperkamp"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Overkamp"/>
+	<schema:containsPlace rdf:resource="http://example.com/base/Warken"/>
+</rdf:Description>
+
+</rdf:RDF>
